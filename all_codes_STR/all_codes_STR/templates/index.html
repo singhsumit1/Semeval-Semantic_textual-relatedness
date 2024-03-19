@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textual Similarity Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Textual Similarity Predictor</h1>
+        <form id="predictForm" action="/predict" method="post">
+            <div class="input-group">
+                <label for="sentence1">Enter Sentence 1:</label>
+                <input type="text" id="sentence1" name="sentence1" required>
+            </div>
+            <div class="input-group">
+                <label for="sentence2">Enter Sentence 2:</label>
+                <input type="text" id="sentence2" name="sentence2" required>
+            </div>
+            <button type="submit">Predict Similarity</button>
+        </form>
+    </div>
+</body>
+</html>

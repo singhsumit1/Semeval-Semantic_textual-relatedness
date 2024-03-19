@@ -1,0 +1,1211 @@
+
+(base) C:\Users\panka>set https_proxy=http://172.31.2.4:8080
+
+(base) C:\Users\panka>cd Desktop
+
+(base) C:\Users\panka\Desktop>dir
+ Volume in drive C is OS
+ Volume Serial Number is 42FE-32C2
+
+ Directory of C:\Users\panka\Desktop
+
+17-03-2024  23:11    <DIR>          .
+18-03-2024  19:25    <DIR>          ..
+24-02-2024  12:32    <DIR>          .ipynb_checkpoints
+04-09-2023  18:46           172,509 400ccea8c22458fa48d772573812e1d161593cbe-2750x1165.png
+14-01-2023  22:14    <DIR>          abc
+03-02-2024  15:15    <DIR>          AI Companies
+20-09-2023  21:42    <DIR>          Ai_Jupter_Notebooks
+30-05-2023  18:00    <DIR>          All_targets_by_date
+13-12-2023  10:16    <DIR>          Assignment_REACT
+04-09-2023  11:40           426,653 Attention_mechanism.jpeg
+23-10-2023  16:34    <DIR>          Autism_classification
+04-09-2023  00:10           333,937 basics-of-bert-and-xlm-roberta-pytorch (2).ipynb
+31-01-2024  23:04    <DIR>          Big data
+31-01-2024  22:57    <DIR>          Books
+15-01-2024  09:34             1,241 caesar_cipher.txt
+28-01-2024  20:30               537 class_variables.py
+04-02-2024  23:32    <DIR>          Codalab Hackathons
+05-05-2022  00:59    <DIR>          Code_python
+16-02-2024  20:17    <DIR>          Core machine learning
+06-12-2023  18:59    <DIR>          COURSE
+08-02-2024  19:39    <DIR>          CS50
+01-01-2024  21:19    <DIR>          Daily Tasks
+31-01-2024  22:56    <DIR>          Data Structures & Algorithms, Level-up Course(2021)-3
+17-03-2024  22:59    <DIR>          Databricks_mlops
+14-07-2023  15:03    <DIR>          datasetab75fb3
+30-06-2023  19:05    <DIR>          Data_analyst
+31-01-2024  23:03    <DIR>          Datence technlogies
+30-01-2024  12:14    <DIR>          DCOM_Matlab
+30-04-2023  11:16    <DIR>          Deep_learning_projects
+16-08-2023  20:02           590,365 dip-for-polsar-images-final.ipynb
+12-11-2023  15:54    <DIR>          Django_project
+04-12-2023  10:38             2,142 Docker Desktop.lnk
+29-10-2023  17:38    <DIR>          Drone_Project_Object_detection
+06-03-2024  00:10    <DIR>          DSA Python
+01-09-2023  02:26            10,132 DSA_problems.xlsx
+10-06-2023  10:22           187,244 Fake_images_generation_using_GAN's.ipynb
+18-02-2024  15:06    <DIR>          Flask Files
+30-01-2024  11:27    <DIR>          Flask_blog
+14-06-2023  19:31    <DIR>          Flavoland_Netherland_R2
+18-03-2024  13:55    <DIR>          Full stack web development
+09-02-2024  02:17    <DIR>          Generative Adversial Networks
+31-01-2024  22:57    <DIR>          Generative_AI_and_LLMS
+30-08-2023  19:32             6,529 github_intro.txt
+02-03-2024  00:45    <DIR>          Gov.Exam
+04-12-2023  10:07               327 hyperv.bat
+02-09-2023  18:26         4,257,884 IBM_HR_Analytics_Employee_Attrition.ipynb
+26-12-2023  11:01    <DIR>          IES
+25-02-2024  12:41    <DIR>          Important Large language models Papers
+18-03-2024  10:41             2,117 Important links.txt
+31-01-2024  23:00    <DIR>          Imp_books_31_01_2024
+29-02-2024  13:06    <DIR>          IndoML
+02-09-2023  19:57    <DIR>          Intent_classification
+04-12-2023  01:03    <DIR>          langchain_advanced
+29-02-2024  13:08    <DIR>          large language model frameworks
+13-11-2023  19:07    <DIR>          llama2_chatting
+19-07-2023  14:22    <DIR>          LLM Books
+16-12-2023  22:40    <DIR>          longshot-ai-assignment
+31-01-2024  23:01    <DIR>          Machine Learning
+16-02-2024  18:19    <DIR>          material Informatics
+14-09-2023  18:08    <DIR>          mathematics books
+31-01-2024  22:59    <DIR>          Matlab
+13-06-2023  17:59    <DIR>          Matlab image processing
+03-05-2023  20:45    <DIR>          ML Tubingen
+18-01-2024  15:52    <DIR>          MLOPS
+18-03-2024  19:26    <DIR>          MLOPS_CICD
+02-10-2023  00:06    <DIR>          Named entity_Recognition
+06-11-2023  00:46    <DIR>          NER_pretraining
+18-07-2023  22:26            11,458 NLP_Sentiment_analysis.ipynb
+08-02-2024  19:40    <DIR>          OOPS Python
+04-12-2023  12:31                51 openai_key.txt
+25-09-2023  10:04    <DIR>          opencv files
+02-01-2024  17:01           221,368 papa_pan card.jpeg
+24-10-2023  17:16    <DIR>          papers_LLM
+01-01-2024  07:56    <DIR>          Papers_NLp
+20-05-2023  19:28    <DIR>          PolSAR Image processing
+17-11-2023  14:39    <DIR>          Power BI
+22-01-2024  16:28    <DIR>          Previous screenshots
+29-02-2024  12:44    <DIR>          project
+16-03-2024  15:58             3,774 proxy.txt
+18-03-2024  17:28    <DIR>          PWC
+01-08-2023  10:21            30,927 PySpark Tutorial.ipynb
+31-01-2024  22:57    <DIR>          python
+23-10-2023  12:43    <DIR>          python_NLP_Advanced
+15-01-2024  18:01               682 Q_1.m
+05-02-2024  01:47    <DIR>          RAG Papers
+12-02-2024  16:10    <DIR>          Resume
+06-12-2023  20:17    <DIR>          Retrieval Augmeted generation
+04-05-2023  13:11    <DIR>          RL Pytorch
+13-06-2023  18:09             1,975 Roadmap_for_analog_engineer.txt
+16-08-2023  19:22    <DIR>          San_fransisco_files
+13-03-2024  22:09    <DIR>          semantic_textual_relatedness
+28-02-2024  18:51    <DIR>          Semester courses
+14-02-2024  21:49    <DIR>          Semeval Tasks
+19-09-2023  20:33    <DIR>          Ship_dataset
+17-06-2023  23:05         1,655,584 Skin_Cancer.h5
+09-01-2024  17:23             1,087 solution.rmd
+11-01-2024  13:20    <DIR>          Spark
+23-02-2024  05:04             1,442 STFT.py
+31-01-2024  23:00    <DIR>          Streamlit-NLP
+27-03-2023  17:02    <DIR>          Tensorflow
+21-09-2023  16:17    <DIR>          Test-assignment
+05-07-2023  19:38            24,371 Text_summarization_using_NLP.ipynb
+16-01-2024  10:20    <DIR>          ThinkOnwards Competition
+01-01-2024  08:29    <DIR>          Upcoming Tasks
+21-01-2024  16:56    <DIR>          Web Development
+16-03-2024  15:57           689,057 zer.pdf
+17-03-2024  22:54    <DIR>          Zero shot Image Captioning and Re ranker
+              25 File(s)      8,633,393 bytes
+              82 Dir(s)  81,032,663,040 bytes free
+
+(base) C:\Users\panka\Desktop>cd semantic_textual_relatedness
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness>dir
+ Volume in drive C is OS
+ Volume Serial Number is 42FE-32C2
+
+ Directory of C:\Users\panka\Desktop\semantic_textual_relatedness
+
+13-03-2024  22:09    <DIR>          .
+17-03-2024  23:11    <DIR>          ..
+13-03-2024  22:15    <DIR>          Semantic_Relatedness_SemEval2024
+               0 File(s)              0 bytes
+               3 Dir(s)  81,032,597,504 bytes free
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness>cd Semantic_Relatedness_SemEval2024
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>dor
+'dor' is not recognized as an internal or external command,
+operable program or batch file.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>dir
+ Volume in drive C is OS
+ Volume Serial Number is 42FE-32C2
+
+ Directory of C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024
+
+13-03-2024  22:15    <DIR>          .
+13-03-2024  22:09    <DIR>          ..
+13-03-2024  22:08                36 .gitignore
+13-03-2024  22:08    <DIR>          all_codes_STR
+13-03-2024  22:08    <DIR>          evaluation_script
+13-03-2024  22:08    <DIR>          images
+18-03-2024  23:42             4,418 README.md
+13-03-2024  22:08    <DIR>          semrel_baselines
+13-03-2024  22:08            52,433 STR_Baseline.ipynb
+13-03-2024  22:08    <DIR>          Track B
+13-03-2024  22:08    <DIR>          Track C
+13-03-2024  22:08    <DIR>          Track_A
+13-03-2024  22:08           231,219 [SemRel 2024] Annotation Guidelines.pdf
+13-03-2024  22:08            27,455 [SemRel SemEval 2024]Examples.csv
+               5 File(s)        315,561 bytes
+               9 Dir(s)  81,032,597,504 bytes free
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>dir
+ Volume in drive C is OS
+ Volume Serial Number is 42FE-32C2
+
+ Directory of C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024
+
+13-03-2024  22:15    <DIR>          .
+13-03-2024  22:09    <DIR>          ..
+13-03-2024  22:08                36 .gitignore
+13-03-2024  22:08    <DIR>          all_codes_STR
+13-03-2024  22:08    <DIR>          evaluation_script
+13-03-2024  22:08    <DIR>          images
+18-03-2024  23:42             4,418 README.md
+13-03-2024  22:08    <DIR>          semrel_baselines
+13-03-2024  22:08            52,433 STR_Baseline.ipynb
+13-03-2024  22:08    <DIR>          Track B
+13-03-2024  22:08    <DIR>          Track C
+13-03-2024  22:08    <DIR>          Track_A
+13-03-2024  22:08           231,219 [SemRel 2024] Annotation Guidelines.pdf
+13-03-2024  22:08            27,455 [SemRel SemEval 2024]Examples.csv
+               5 File(s)        315,561 bytes
+               9 Dir(s)  81,032,597,504 bytes free
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        deleted:    Track A/amh/amh_dev.csv
+        deleted:    Track A/amh/amh_dev_with_labels.csv
+        deleted:    Track A/amh/amh_test.csv
+        deleted:    Track A/amh/amh_test_with_labels.csv
+        deleted:    Track A/amh/amh_train.csv
+        deleted:    Track A/arq/arq_dev.csv
+        deleted:    Track A/arq/arq_dev_with_labels.csv
+        deleted:    Track A/arq/arq_test.csv
+        deleted:    Track A/arq/arq_test_with_labels.csv
+        deleted:    Track A/arq/arq_train.csv
+        deleted:    Track A/ary/ary_dev.csv
+        deleted:    Track A/ary/ary_dev_with_labels.csv
+        deleted:    Track A/ary/ary_test.csv
+        deleted:    Track A/ary/ary_test_with_labels.csv
+        deleted:    Track A/ary/ary_train.csv
+        deleted:    Track A/eng/eng_dev.csv
+        deleted:    Track A/eng/eng_dev_with_labels.csv
+        deleted:    Track A/eng/eng_test.csv
+        deleted:    Track A/eng/eng_test_with_labels.csv
+        deleted:    Track A/eng/eng_train.csv
+        deleted:    Track A/esp/esp_dev.csv
+        deleted:    Track A/esp/esp_dev_with_labels.csv
+        deleted:    Track A/esp/esp_test.csv
+        deleted:    Track A/esp/esp_train.csv
+        deleted:    Track A/hau/hau_dev.csv
+        deleted:    Track A/hau/hau_dev_with_labels.csv
+        deleted:    Track A/hau/hau_test.csv
+        deleted:    Track A/hau/hau_test_with_labels.csv
+        deleted:    Track A/hau/hau_train.csv
+        deleted:    Track A/kin/kin_dev.csv
+        deleted:    Track A/kin/kin_dev_with_labels.csv
+        deleted:    Track A/kin/kin_test.csv
+        deleted:    Track A/kin/kin_test_with_labels.csv
+        deleted:    Track A/kin/kin_train.csv
+        deleted:    Track A/mar/mar_dev.csv
+        deleted:    Track A/mar/mar_dev_with_labels.csv
+        deleted:    Track A/mar/mar_test.csv
+        deleted:    Track A/mar/mar_test_with_labels.csv
+        deleted:    Track A/mar/mar_train.csv
+        deleted:    Track A/tel/tel_dev.csv
+        deleted:    Track A/tel/tel_dev_with_labels.csv
+        deleted:    Track A/tel/tel_test.csv
+        deleted:    Track A/tel/tel_test_with_labels.csv
+        deleted:    Track A/tel/tel_train.csv
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Track_A/
+        all_codes_STR/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git add .
+warning: LF will be replaced by CRLF in Track_A/ary/ary_dev.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Track_A/esp/esp_dev.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/dataloader.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/meta.yaml.
+The file will have its original line endings in your working directory
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git add .
+warning: LF will be replaced by CRLF in Track_A/ary/ary_dev.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Track_A/esp/esp_dev.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/dataloader.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/mlruns/0/meta.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/test.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/train.py.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in all_codes_STR/all_codes_STR/train_model.py.
+The file will have its original line endings in your working directory
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+        renamed:    Track A/amh/amh_dev.csv -> Track_A/amh/amh_dev.csv
+        renamed:    Track A/amh/amh_dev_with_labels.csv -> Track_A/amh/amh_dev_with_labels.csv
+        renamed:    Track A/amh/amh_test.csv -> Track_A/amh/amh_test.csv
+        renamed:    Track A/amh/amh_test_with_labels.csv -> Track_A/amh/amh_test_with_labels.csv
+        renamed:    Track A/amh/amh_train.csv -> Track_A/amh/amh_train.csv
+        renamed:    Track A/arq/arq_dev.csv -> Track_A/arq/arq_dev.csv
+        renamed:    Track A/arq/arq_dev_with_labels.csv -> Track_A/arq/arq_dev_with_labels.csv
+        renamed:    Track A/arq/arq_test.csv -> Track_A/arq/arq_test.csv
+        renamed:    Track A/arq/arq_test_with_labels.csv -> Track_A/arq/arq_test_with_labels.csv
+        renamed:    Track A/arq/arq_train.csv -> Track_A/arq/arq_train.csv
+        renamed:    Track A/ary/ary_dev.csv -> Track_A/ary/ary_dev.csv
+        renamed:    Track A/ary/ary_dev_with_labels.csv -> Track_A/ary/ary_dev_with_labels.csv
+        renamed:    Track A/ary/ary_test.csv -> Track_A/ary/ary_test.csv
+        renamed:    Track A/ary/ary_test_with_labels.csv -> Track_A/ary/ary_test_with_labels.csv
+        renamed:    Track A/ary/ary_train.csv -> Track_A/ary/ary_train.csv
+        renamed:    Track A/eng/eng_dev.csv -> Track_A/eng/eng_dev.csv
+        renamed:    Track A/eng/eng_dev_with_labels.csv -> Track_A/eng/eng_dev_with_labels.csv
+        renamed:    Track A/eng/eng_test.csv -> Track_A/eng/eng_test.csv
+        renamed:    Track A/eng/eng_test_with_labels.csv -> Track_A/eng/eng_test_with_labels.csv
+        renamed:    Track A/eng/eng_train.csv -> Track_A/eng/eng_train.csv
+        renamed:    Track A/esp/esp_dev.csv -> Track_A/esp/esp_dev.csv
+        renamed:    Track A/esp/esp_dev_with_labels.csv -> Track_A/esp/esp_dev_with_labels.csv
+        renamed:    Track A/esp/esp_test.csv -> Track_A/esp/esp_test.csv
+        renamed:    Track A/esp/esp_train.csv -> Track_A/esp/esp_train.csv
+        renamed:    Track A/hau/hau_dev.csv -> Track_A/hau/hau_dev.csv
+        renamed:    Track A/hau/hau_dev_with_labels.csv -> Track_A/hau/hau_dev_with_labels.csv
+        renamed:    Track A/hau/hau_test.csv -> Track_A/hau/hau_test.csv
+        renamed:    Track A/hau/hau_test_with_labels.csv -> Track_A/hau/hau_test_with_labels.csv
+        renamed:    Track A/hau/hau_train.csv -> Track_A/hau/hau_train.csv
+        renamed:    Track A/kin/kin_dev.csv -> Track_A/kin/kin_dev.csv
+        renamed:    Track A/kin/kin_dev_with_labels.csv -> Track_A/kin/kin_dev_with_labels.csv
+        renamed:    Track A/kin/kin_test.csv -> Track_A/kin/kin_test.csv
+        renamed:    Track A/kin/kin_test_with_labels.csv -> Track_A/kin/kin_test_with_labels.csv
+        renamed:    Track A/kin/kin_train.csv -> Track_A/kin/kin_train.csv
+        renamed:    Track A/mar/mar_dev.csv -> Track_A/mar/mar_dev.csv
+        renamed:    Track A/mar/mar_dev_with_labels.csv -> Track_A/mar/mar_dev_with_labels.csv
+        renamed:    Track A/mar/mar_test.csv -> Track_A/mar/mar_test.csv
+        renamed:    Track A/mar/mar_test_with_labels.csv -> Track_A/mar/mar_test_with_labels.csv
+        renamed:    Track A/mar/mar_train.csv -> Track_A/mar/mar_train.csv
+        renamed:    Track A/tel/tel_dev.csv -> Track_A/tel/tel_dev.csv
+        renamed:    Track A/tel/tel_dev_with_labels.csv -> Track_A/tel/tel_dev_with_labels.csv
+        renamed:    Track A/tel/tel_test.csv -> Track_A/tel/tel_test.csv
+        renamed:    Track A/tel/tel_test_with_labels.csv -> Track_A/tel/tel_test_with_labels.csv
+        renamed:    Track A/tel/tel_train.csv -> Track_A/tel/tel_train.csv
+        new file:   all_codes_STR/all_codes_STR/Dockerfile
+        new file:   all_codes_STR/all_codes_STR/best_model_paths.json
+        new file:   all_codes_STR/all_codes_STR/dataloader.py
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.runName
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.git.commit
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.name
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.type
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.user
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.runName
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.git.commit
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.name
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.type
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.user
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.runName
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.git.commit
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.name
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.type
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.user
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/requirements.txt
+        new file:   all_codes_STR/all_codes_STR/static/styles.css
+        new file:   all_codes_STR/all_codes_STR/templates/index.html
+        new file:   all_codes_STR/all_codes_STR/templates/result.html
+        new file:   all_codes_STR/all_codes_STR/test.py
+        new file:   all_codes_STR/all_codes_STR/test_flask.py
+        new file:   all_codes_STR/all_codes_STR/train.py
+        new file:   all_codes_STR/all_codes_STR/train_model.py
+        new file:   all_codes_STR/all_codes_STR/valid_accuracy_amh.json
+        new file:   all_codes_STR/all_codes_STR/valid_accuracy_arq.json
+        new file:   all_codes_STR/all_codes_STR/valid_accuracy_eng.json
+
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/semantic-textual_relatedness.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push -u origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+        renamed:    Track A/amh/amh_dev.csv -> Track_A/amh/amh_dev.csv
+        renamed:    Track A/amh/amh_dev_with_labels.csv -> Track_A/amh/amh_dev_with_labels.csv
+        renamed:    Track A/amh/amh_test.csv -> Track_A/amh/amh_test.csv
+        renamed:    Track A/amh/amh_test_with_labels.csv -> Track_A/amh/amh_test_with_labels.csv
+        renamed:    Track A/amh/amh_train.csv -> Track_A/amh/amh_train.csv
+        renamed:    Track A/arq/arq_dev.csv -> Track_A/arq/arq_dev.csv
+        renamed:    Track A/arq/arq_dev_with_labels.csv -> Track_A/arq/arq_dev_with_labels.csv
+        renamed:    Track A/arq/arq_test.csv -> Track_A/arq/arq_test.csv
+        renamed:    Track A/arq/arq_test_with_labels.csv -> Track_A/arq/arq_test_with_labels.csv
+        renamed:    Track A/arq/arq_train.csv -> Track_A/arq/arq_train.csv
+        renamed:    Track A/ary/ary_dev.csv -> Track_A/ary/ary_dev.csv
+        renamed:    Track A/ary/ary_dev_with_labels.csv -> Track_A/ary/ary_dev_with_labels.csv
+        renamed:    Track A/ary/ary_test.csv -> Track_A/ary/ary_test.csv
+        renamed:    Track A/ary/ary_test_with_labels.csv -> Track_A/ary/ary_test_with_labels.csv
+        renamed:    Track A/ary/ary_train.csv -> Track_A/ary/ary_train.csv
+        renamed:    Track A/eng/eng_dev.csv -> Track_A/eng/eng_dev.csv
+        renamed:    Track A/eng/eng_dev_with_labels.csv -> Track_A/eng/eng_dev_with_labels.csv
+        renamed:    Track A/eng/eng_test.csv -> Track_A/eng/eng_test.csv
+        renamed:    Track A/eng/eng_test_with_labels.csv -> Track_A/eng/eng_test_with_labels.csv
+        renamed:    Track A/eng/eng_train.csv -> Track_A/eng/eng_train.csv
+        renamed:    Track A/esp/esp_dev.csv -> Track_A/esp/esp_dev.csv
+        renamed:    Track A/esp/esp_dev_with_labels.csv -> Track_A/esp/esp_dev_with_labels.csv
+        renamed:    Track A/esp/esp_test.csv -> Track_A/esp/esp_test.csv
+        renamed:    Track A/esp/esp_train.csv -> Track_A/esp/esp_train.csv
+        renamed:    Track A/hau/hau_dev.csv -> Track_A/hau/hau_dev.csv
+        renamed:    Track A/hau/hau_dev_with_labels.csv -> Track_A/hau/hau_dev_with_labels.csv
+        renamed:    Track A/hau/hau_test.csv -> Track_A/hau/hau_test.csv
+        renamed:    Track A/hau/hau_test_with_labels.csv -> Track_A/hau/hau_test_with_labels.csv
+        renamed:    Track A/hau/hau_train.csv -> Track_A/hau/hau_train.csv
+        renamed:    Track A/kin/kin_dev.csv -> Track_A/kin/kin_dev.csv
+        renamed:    Track A/kin/kin_dev_with_labels.csv -> Track_A/kin/kin_dev_with_labels.csv
+        renamed:    Track A/kin/kin_test.csv -> Track_A/kin/kin_test.csv
+        renamed:    Track A/kin/kin_test_with_labels.csv -> Track_A/kin/kin_test_with_labels.csv
+        renamed:    Track A/kin/kin_train.csv -> Track_A/kin/kin_train.csv
+        renamed:    Track A/mar/mar_dev.csv -> Track_A/mar/mar_dev.csv
+        renamed:    Track A/mar/mar_dev_with_labels.csv -> Track_A/mar/mar_dev_with_labels.csv
+        renamed:    Track A/mar/mar_test.csv -> Track_A/mar/mar_test.csv
+        renamed:    Track A/mar/mar_test_with_labels.csv -> Track_A/mar/mar_test_with_labels.csv
+        renamed:    Track A/mar/mar_train.csv -> Track_A/mar/mar_train.csv
+        renamed:    Track A/tel/tel_dev.csv -> Track_A/tel/tel_dev.csv
+        renamed:    Track A/tel/tel_dev_with_labels.csv -> Track_A/tel/tel_dev_with_labels.csv
+        renamed:    Track A/tel/tel_test.csv -> Track_A/tel/tel_test.csv
+        renamed:    Track A/tel/tel_test_with_labels.csv -> Track_A/tel/tel_test_with_labels.csv
+        renamed:    Track A/tel/tel_train.csv -> Track_A/tel/tel_train.csv
+        new file:   all_codes_STR/all_codes_STR/Dockerfile
+        new file:   all_codes_STR/all_codes_STR/best_model_paths.json
+        new file:   all_codes_STR/all_codes_STR/dataloader.py
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.runName
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.git.commit
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.name
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.type
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.user
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.runName
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.git.commit
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.name
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.type
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.user
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/train_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/valid_accuracy
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/valid_loss
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.runName
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.git.commit
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.name
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.type
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.user
+        new file:   all_codes_STR/all_codes_STR/mlruns/0/meta.yaml
+        new file:   all_codes_STR/all_codes_STR/requirements.txt
+        new file:   all_codes_STR/all_codes_STR/static/styles.css
+        new file:   all_codes_STR/all_codes_STR/templates/index.html
+        new file:   all_codes_STR/all_codes_STR/templates/result.html
+        new file:   all_codes_STR/all_codes_STR/test.py
+        new file:   all_codes_STR/all_codes_STR/test_flask.py
+        new file:   all_codes_STR/all_codes_STR/train.py
+        new file:   all_codes_STR/all_codes_STR/train_model.py
+        new file:   all_codes_STR/all_codes_STR/valid_accuracy_amh.json
+        new file:   all_codes_STR/all_codes_STR/valid_accuracy_arq.json
+        new file:   all_codes_STR/all_codes_STR/valid_accuracy_eng.json
+
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git commit -m "initial Commit"
+[main 54d3469] initial Commit
+ 96 files changed, 1603 insertions(+), 211 deletions(-)
+ rename {Track A => Track_A}/amh/amh_dev.csv (100%)
+ rename {Track A => Track_A}/amh/amh_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/amh/amh_test.csv (100%)
+ rename {Track A => Track_A}/amh/amh_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/amh/amh_train.csv (100%)
+ rename {Track A => Track_A}/arq/arq_dev.csv (100%)
+ rename {Track A => Track_A}/arq/arq_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/arq/arq_test.csv (100%)
+ rename {Track A => Track_A}/arq/arq_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/arq/arq_train.csv (100%)
+ rename {Track A => Track_A}/ary/ary_dev.csv (99%)
+ rename {Track A => Track_A}/ary/ary_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/ary/ary_test.csv (100%)
+ rename {Track A => Track_A}/ary/ary_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/ary/ary_train.csv (100%)
+ rename {Track A => Track_A}/eng/eng_dev.csv (100%)
+ rename {Track A => Track_A}/eng/eng_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/eng/eng_test.csv (100%)
+ rename {Track A => Track_A}/eng/eng_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/eng/eng_train.csv (100%)
+ rename {Track A => Track_A}/esp/esp_dev.csv (99%)
+ rename {Track A => Track_A}/esp/esp_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/esp/esp_test.csv (100%)
+ rename {Track A => Track_A}/esp/esp_train.csv (100%)
+ rename {Track A => Track_A}/hau/hau_dev.csv (100%)
+ rename {Track A => Track_A}/hau/hau_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/hau/hau_test.csv (100%)
+ rename {Track A => Track_A}/hau/hau_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/hau/hau_train.csv (100%)
+ rename {Track A => Track_A}/kin/kin_dev.csv (100%)
+ rename {Track A => Track_A}/kin/kin_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/kin/kin_test.csv (100%)
+ rename {Track A => Track_A}/kin/kin_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/kin/kin_train.csv (100%)
+ rename {Track A => Track_A}/mar/mar_dev.csv (100%)
+ rename {Track A => Track_A}/mar/mar_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/mar/mar_test.csv (100%)
+ rename {Track A => Track_A}/mar/mar_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/mar/mar_train.csv (100%)
+ rename {Track A => Track_A}/tel/tel_dev.csv (100%)
+ rename {Track A => Track_A}/tel/tel_dev_with_labels.csv (100%)
+ rename {Track A => Track_A}/tel/tel_test.csv (100%)
+ rename {Track A => Track_A}/tel/tel_test_with_labels.csv (100%)
+ rename {Track A => Track_A}/tel/tel_train.csv (100%)
+ create mode 100644 all_codes_STR/all_codes_STR/Dockerfile
+ create mode 100644 all_codes_STR/all_codes_STR/best_model_paths.json
+ create mode 100644 all_codes_STR/all_codes_STR/dataloader.py
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/meta.yaml
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_train_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_valid_accuracy
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/final_valid_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/train_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/valid_accuracy
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/metrics/valid_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.runName
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.git.commit
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.name
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.source.type
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/82279cf45788452a84010033f6ccd117/tags/mlflow.user
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/meta.yaml
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_train_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_valid_accuracy
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/final_valid_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/train_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/valid_accuracy
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/metrics/valid_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.runName
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.git.commit
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.name
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.source.type
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/89aa83bf882f47878e2e5d4353da1f29/tags/mlflow.user
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/meta.yaml
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_train_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_valid_accuracy
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/final_valid_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/train_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/valid_accuracy
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/metrics/valid_loss
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.runName
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.git.commit
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.name
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.source.type
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/b91f4e20622e4de1b2714e281911987a/tags/mlflow.user
+ create mode 100644 all_codes_STR/all_codes_STR/mlruns/0/meta.yaml
+ create mode 100644 all_codes_STR/all_codes_STR/requirements.txt
+ create mode 100644 all_codes_STR/all_codes_STR/static/styles.css
+ create mode 100644 all_codes_STR/all_codes_STR/templates/index.html
+ create mode 100644 all_codes_STR/all_codes_STR/templates/result.html
+ create mode 100644 all_codes_STR/all_codes_STR/test.py
+ create mode 100644 all_codes_STR/all_codes_STR/test_flask.py
+ create mode 100644 all_codes_STR/all_codes_STR/train.py
+ create mode 100644 all_codes_STR/all_codes_STR/train_model.py
+ create mode 100644 all_codes_STR/all_codes_STR/valid_accuracy_amh.json
+ create mode 100644 all_codes_STR/all_codes_STR/valid_accuracy_arq.json
+ create mode 100644 all_codes_STR/all_codes_STR/valid_accuracy_eng.json
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git log
+commit 54d346913ca0398132f7a95b112d863c2172b752 (HEAD -> main)
+Author: pankaj10034 <pankajgoyal02003@gmail.com>
+Date:   Mon Mar 18 23:49:27 2024 +0530
+
+    initial Commit
+
+commit 8d8e2786b08935da11a6f8c96f1312cb4fff7332 (origin/main, origin/HEAD)
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Mar 13 16:01:00 2024 +0200
+
+    updated afr dev file without labels
+
+commit 43df89d6ef63cbd457aff9e8590dd848074cf778
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:01:26 2024 +0100
+
+    Update README.md
+
+commit 53cd6a42a676e53dde95a7feb9b2c8cc8c7b18af
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:00:20 2024 +0100
+
+    Update README.md
+
+commit d47ed6344c23ad96d259c0b1cd6607f26290b621
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:21:22 2024 +0000
+
+    Add files via upload
+
+commit 7f0201e5fdb5b72cc04c388a924ed3e2a39e110f
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:20:56 2024 +0000
+
+    Add files via upload
+
+commit 179177ac4cce23655ef3ac1463d7afc9c109f2cb
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:18:10 2024 +0000
+
+:
+commit 54d346913ca0398132f7a95b112d863c2172b752 (HEAD -> main)
+Author: pankaj10034 <pankajgoyal02003@gmail.com>
+Date:   Mon Mar 18 23:49:27 2024 +0530
+
+    initial Commit
+
+commit 8d8e2786b08935da11a6f8c96f1312cb4fff7332 (origin/main, origin/HEAD)
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Mar 13 16:01:00 2024 +0200
+
+    updated afr dev file without labels
+
+commit 43df89d6ef63cbd457aff9e8590dd848074cf778
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:01:26 2024 +0100
+
+    Update README.md
+
+commit 53cd6a42a676e53dde95a7feb9b2c8cc8c7b18af
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:00:20 2024 +0100
+
+    Update README.md
+
+commit d47ed6344c23ad96d259c0b1cd6607f26290b621
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:21:22 2024 +0000
+
+    Add files via upload
+
+commit 7f0201e5fdb5b72cc04c388a924ed3e2a39e110f
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:20:56 2024 +0000
+
+    Add files via upload
+
+commit 179177ac4cce23655ef3ac1463d7afc9c109f2cb
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:18:10 2024 +0000
+
+...skipping...
+commit 54d346913ca0398132f7a95b112d863c2172b752 (HEAD -> main)
+Author: pankaj10034 <pankajgoyal02003@gmail.com>
+Date:   Mon Mar 18 23:49:27 2024 +0530
+
+    initial Commit
+
+commit 8d8e2786b08935da11a6f8c96f1312cb4fff7332 (origin/main, origin/HEAD)
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Mar 13 16:01:00 2024 +0200
+
+    updated afr dev file without labels
+
+commit 43df89d6ef63cbd457aff9e8590dd848074cf778
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:01:26 2024 +0100
+
+    Update README.md
+
+commit 53cd6a42a676e53dde95a7feb9b2c8cc8c7b18af
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:00:20 2024 +0100
+
+    Update README.md
+
+commit d47ed6344c23ad96d259c0b1cd6607f26290b621
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:21:22 2024 +0000
+
+    Add files via upload
+
+commit 7f0201e5fdb5b72cc04c388a924ed3e2a39e110f
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:20:56 2024 +0000
+
+    Add files via upload
+
+commit 179177ac4cce23655ef3ac1463d7afc9c109f2cb
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:18:10 2024 +0000
+
+    Add files via upload
+set mark: ...skipping...
+Author: pankaj10034 <pankajgoyal02003@gmail.com>
+Date:   Mon Mar 18 23:49:27 2024 +0530
+
+    initial Commit
+
+commit 8d8e2786b08935da11a6f8c96f1312cb4fff7332 (origin/main, origin/HEAD)
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Mar 13 16:01:00 2024 +0200
+
+    updated afr dev file without labels
+
+commit 43df89d6ef63cbd457aff9e8590dd848074cf778
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:01:26 2024 +0100
+
+    Update README.md
+
+commit 53cd6a42a676e53dde95a7feb9b2c8cc8c7b18af
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:00:20 2024 +0100
+
+    Update README.md
+
+commit d47ed6344c23ad96d259c0b1cd6607f26290b621
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:21:22 2024 +0000
+
+    Add files via upload
+
+commit 7f0201e5fdb5b72cc04c388a924ed3e2a39e110f
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:20:56 2024 +0000
+
+    Add files via upload
+
+commit 179177ac4cce23655ef3ac1463d7afc9c109f2cb
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:18:10 2024 +0000
+
+    Add files via upload
+
+commit f219b1d6df4c62904d255c9bce14b7ba992a57e6
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:17:45 2024 +0000
+
+    Add files via upload
+
+commit c34cf86758e52c36200f48645dafa37ccbfe98fd
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Wed Feb 14 18:20:09 2024 +0100
+
+    Update README.md
+
+commit 65545d0a32c9c4f5ab925b14ee603bd4511537a8
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Wed Feb 14 15:56:31 2024 +0000
+
+    Update README.md
+
+commit d01ea8b73a96e025f12054bf2beb9a17b040adce
+Merge: 8f1844d 3c78da0
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Feb 14 16:34:06 2024 +0200
+
+    Merge branch 'main' of https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024
+
+commit 8f1844dcee4325626685113ce39df7215bd8dffb
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Feb 14 16:34:04 2024 +0200
+
+    released test with gold labels
+
+commit 3c78da09c5dcab30d1b4854984765bb545094b14
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Wed Feb 14 11:49:51 2024 +0000
+
+    Add files via upload
+
+commit 4bace55d5a7cb710bd969e279a6bbc879290fc0d
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Wed Feb 14 11:19:59 2024 +0000
+
+    Update README.md
+
+    added paper
+
+commit 0d43959094ffccb07742b370a07429270720517c
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Wed Feb 14 11:12:37 2024 +0000
+
+    Add files via upload
+
+    sharing the annotation guidelines
+
+commit 8edf38e8145e7eaf9ec4d6ffded94f4243aeca3c
+Merge: 9b0be0b f121f55
+Author: Sanchit <sanchitahuja205@gmail.com>
+Date:   Mon Feb 5 08:55:08 2024 +0000
+
+    Merge branch 'main' of github.com:semantic-textual-relatedness/Semantic_Relatedness_SemEval2024 into main
+
+commit 9b0be0bf1a9737f3e90c08c133d79301de850799
+Author: Sanchit <sanchitahuja205@gmail.com>
+Date:   Mon Feb 5 08:55:01 2024 +0000
+
+    added finetune sbert script
+
+commit f121f558ac3cf274d44608f5657d47189859baaa
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Sun Feb 4 17:06:58 2024 +0100
+
+    Update README.md
+
+commit 4bf0117a27fff32837dfc4022e846794362b9645
+Merge: b5625ce 09670fa
+Author: Sanchit <sanchitahuja205@gmail.com>
+Date:   Sun Feb 4 13:49:37 2024 +0000
+
+    Merge branch 'main' of github.com:semantic-textual-relatedness/Semantic_Relatedness_SemEval2024 into main
+
+commit b5625cee358cac73781801807fdd8294a0e004b5
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:48:01 2024 +0000
+
+    add scripts and notebooks
+
+commit 09670fa48905e308a713e4c4901d62d74d829d42
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:48:01 2024 +0000
+
+    add scripts and notebooks
+
+commit 8e01411d84f63a2280fb34709b714846d482eb50
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:45:33 2024 +0000
+
+    update
+
+commit a5904f63d8cec39b65344e3f3709513cd1ccbb41
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:37:06 2024 +0000
+
+    refactor
+
+commit 3fac9e868e3c1ab73b0a48d40fa418d159ec27e0
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:34:27 2024 +0000
+
+    refactor and update readme
+
+commit 61eba0bd7e10908354f05f72982de1ee658d8478
+Merge: 14180d3 5355fe4
+Author: Sanchit Ahuja <30617988+sanchit-ahuja@users.noreply.github.com>
+Date:   Sun Feb 4 18:57:04 2024 +0530
+
+    Merge pull request #3 from semantic-textual-relatedness/semrel_baselines
+
+    Semrel baselines
+
+commit 5355fe4fa133a56888785eee03e2052a79a9dcc7 (origin/semrel_baselines)
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 09:48:15 2024 +0000
+
+...skipping...
+
+    add scripts and notebooks
+
+commit 09670fa48905e308a713e4c4901d62d74d829d42
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:48:01 2024 +0000
+
+    add scripts and notebooks
+
+commit 8e01411d84f63a2280fb34709b714846d482eb50
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:45:33 2024 +0000
+
+    update
+
+commit a5904f63d8cec39b65344e3f3709513cd1ccbb41
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:37:06 2024 +0000
+
+    refactor
+
+commit 3fac9e868e3c1ab73b0a48d40fa418d159ec27e0
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 13:34:27 2024 +0000
+
+    refactor and update readme
+
+commit 61eba0bd7e10908354f05f72982de1ee658d8478
+Merge: 14180d3 5355fe4
+Author: Sanchit Ahuja <30617988+sanchit-ahuja@users.noreply.github.com>
+Date:   Sun Feb 4 18:57:04 2024 +0530
+
+    Merge pull request #3 from semantic-textual-relatedness/semrel_baselines
+
+    Semrel baselines
+
+commit 5355fe4fa133a56888785eee03e2052a79a9dcc7 (origin/semrel_baselines)
+Author: Sanchit <t-sahuja@microsoft.com>
+Date:   Sun Feb 4 09:48:15 2024 +0000
+commit 54d346913ca0398132f7a95b112d863c2172b752 (HEAD -> main)
+Author: pankaj10034 <pankajgoyal02003@gmail.com>
+Date:   Mon Mar 18 23:49:27 2024 +0530
+
+    initial Commit
+
+commit 8d8e2786b08935da11a6f8c96f1312cb4fff7332 (origin/main, origin/HEAD)
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Mar 13 16:01:00 2024 +0200
+
+    updated afr dev file without labels
+
+commit 43df89d6ef63cbd457aff9e8590dd848074cf778
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:01:26 2024 +0100
+
+    Update README.md
+
+commit 53cd6a42a676e53dde95a7feb9b2c8cc8c7b18af
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:00:20 2024 +0100
+
+    Update README.md
+
+commit d47ed6344c23ad96d259c0b1cd6607f26290b621
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:21:22 2024 +0000
+
+    Add files via upload
+
+commit 7f0201e5fdb5b72cc04c388a924ed3e2a39e110f
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:20:56 2024 +0000
+
+    Add files via upload
+
+commit 179177ac4cce23655ef3ac1463d7afc9c109f2cb
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:18:10 2024 +0000
+
+...skipping...
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to N).
+  u  ^U             *  Backward one half-window (and set half-window to N).
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SEARCHING
+
+  /pattern          *  Search forward for (N-th) matching line.
+  ?pattern          *  Search backward for (N-th) matching line.
+  n                 *  Repeat previous search (for N-th occurrence).
+...skipping...
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to N).
+  u  ^U             *  Backward one half-window (and set half-window to N).
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SEARCHING
+
+  /pattern          *  Search forward for (N-th) matching line.
+  ?pattern          *  Search backward for (N-th) matching line.
+  n                 *  Repeat previous search (for N-th occurrence).
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to N).
+  u  ^U             *  Backward one half-window (and set half-window to N).
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SEARCHING
+
+  /pattern          *  Search forward for (N-th) matching line.
+  ?pattern          *  Search backward for (N-th) matching line.
+  n                 *  Repeat previous search (for N-th occurrence).
+...skipping...
+commit 54d346913ca0398132f7a95b112d863c2172b752 (HEAD -> main)
+Author: pankaj10034 <pankajgoyal02003@gmail.com>
+Date:   Mon Mar 18 23:49:27 2024 +0530
+
+    initial Commit
+
+commit 8d8e2786b08935da11a6f8c96f1312cb4fff7332 (origin/main, origin/HEAD)
+Author: iabdulmumin <abumafrim@gmail.com>
+Date:   Wed Mar 13 16:01:00 2024 +0200
+
+    updated afr dev file without labels
+
+commit 43df89d6ef63cbd457aff9e8590dd848074cf778
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:01:26 2024 +0100
+
+    Update README.md
+
+commit 53cd6a42a676e53dde95a7feb9b2c8cc8c7b18af
+Author: Shamsudddeen Hassan Muhammad <38854463+shmuhammadd@users.noreply.github.com>
+Date:   Mon Feb 19 15:00:20 2024 +0100
+
+    Update README.md
+
+commit d47ed6344c23ad96d259c0b1cd6607f26290b621
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:21:22 2024 +0000
+
+    Add files via upload
+
+commit 7f0201e5fdb5b72cc04c388a924ed3e2a39e110f
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Mon Feb 19 09:20:56 2024 +0000
+
+    Add files via upload
+
+commit 179177ac4cce23655ef3ac1463d7afc9c109f2cb
+Author: Nedjma Ousidhoum <51069292+nedjmaou@users.noreply.github.com>
+Date:   Sun Feb 18 09:18:10 2024 +0000
+
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/semantic-textual_relatedness.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push -u origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/semantic-textual-relatednes.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push -u origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/semantic-textual-relatednes.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/STR.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push -u origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>set https_proxy=http://172.31.2.4:8080
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/STR.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git add .
+warning: LF will be replaced by CRLF in h -u origin main.
+The file will have its original line endings in your working directory
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   h -u origin main
+
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git commit -m "first commit"
+[main f8f12e5] first commit
+ 1 file changed, 258 insertions(+)
+ create mode 100644 h -u origin main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git remote add origin https://github.com/pankaj10032/STR.git
+error: remote origin already exists.
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git branch -M main
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>git push origin main
+remote: Permission to semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git denied to pankaj10032.
+fatal: unable to access 'https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024.git/': The requested URL returned error: 403
+
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_SemEval2024>
+(base) C:\Users\panka\Desktop\semantic_textual_relatedness\Semantic_Relatedness_S+
