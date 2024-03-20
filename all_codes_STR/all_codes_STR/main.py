@@ -33,7 +33,8 @@ class Predictor:
 with open("best_model_paths.json", "r") as f:
     best_model_path = json.load(f)
 # best_model_path="C:/Users/panka/Desktop/semantic_textual_relatedness/Semantic_Relatedness_SemEval2024/all_codes_STR/all_codes_STR/saved_models_train_py_format/eng/epoch_1"
-best_model_path="pankaj100567/semantic_textual_relatedness"
+# best_model_path="pankaj100567/semantic_textual_relatedness"
+best_model_path="pankaj100567/semeval-semantic-texutal-relatedness"
 # best_model_path="Semantic_Relatedness_SemEval2024/all_codes_STR/all_codes_STR/saved_models_train_py_format/eng/epoch_1"
 # Load model and tokenizer
 model = XLMRobertaForSequenceClassification.from_pretrained(best_model_path)
