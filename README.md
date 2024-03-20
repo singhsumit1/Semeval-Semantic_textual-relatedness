@@ -8,7 +8,8 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 [Citing This Work](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
 
 TO run the code clone the repo:
-@https://github.com/pankaj10032/semantic-textual-relatednes.git
+@https://github.com/singhsumit1/Semeval-Semantic_textual-relatedness.git
+and after that go to the directory all_codes_str by using cd all_codes_str and run the code @python main.py
 The annotation guidelines are available here. (The PDF named SemRel Annotation guidelines.)
 
 Check the SemRel Baseline Folder for details about the [baseline experiment.](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/semrel_baselines) 
